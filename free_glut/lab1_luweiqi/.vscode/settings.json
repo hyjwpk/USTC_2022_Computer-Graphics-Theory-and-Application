@@ -1,0 +1,29 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\wangc\\Desktop\\freeglut\\output",
+            "binaryPath": "c:\\Users\\wangc\\Desktop\\freeglut\\output\\main.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "c:\\Users\\wangc\\Desktop\\test\\output",
+            "binaryPath": "c:\\Users\\wangc\\Desktop\\test\\output\\main.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "c:\\Users\\wangc\\Desktop\\liuweiqi\\output",
+            "binaryPath": "c:\\Users\\wangc\\Desktop\\liuweiqi\\output\\main.exe",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "cmath": "cpp",
+        "vector": "cpp",
+        "sstream": "cpp",
+        "*.tcc": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "fstream": "cpp",
+        "new": "cpp"
+    }
+}
